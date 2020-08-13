@@ -1,0 +1,15 @@
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.exe
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.deps.json
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.runtimeconfig.json
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.dll
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.pdb
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\bin\Debug\netcoreapp3.1\LinqBasic.Abstract.dll
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.csproj.CopyComplete
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.dll
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.pdb
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LinqBasic\LinqBasic\obj\Debug\netcoreapp3.1\LinqBasic.genruntimeconfig.cache
